@@ -1,0 +1,9 @@
+{
+  "name": "clarity-async-npm",
+  "version": "0.0.0",
+  "description": "ClarityAsyncNpm",
+  "main": "app.js",
+  "author": {
+    "name": "Jared"
+  }
+}
